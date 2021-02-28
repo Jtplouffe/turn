@@ -39,3 +39,8 @@ bench = false
 name = "turn_server_udp"
 path = "examples/turn_server_udp.rs"
 bench = false
+
+[[example]]
+name = "lt_cred_generator"
+path = "examples/lt_cred_generator.rs"
+bench = false
